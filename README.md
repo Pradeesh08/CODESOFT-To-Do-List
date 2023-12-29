@@ -11,7 +11,7 @@ Remove Task: Users can remove tasks from the to-do list once they are done or no
 Once the application is running, you can interact with it using the command-line interface. Here are the available commands:
 
 Add: Add a new task to the to-do list.
-remove: Remove a task from the to-do list.
+Remove: Remove a task from the to-do list.
 Exit: Exit the application.
 
 ## Dependencies
